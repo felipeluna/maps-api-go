@@ -10,7 +10,7 @@ import (
 )
 
 func Test_UnmarshalJson(t *testing.T) {
-	rawJson, err := ioutil.ReadFile("example.json")
+	rawJson, err := ioutil.ReadFile("./example.json")
 	if err != nil {
 		t.Errorf("could not open example json. %v", err)
 	}
@@ -32,7 +32,7 @@ func Test_UnmarshalJson(t *testing.T) {
 }
 
 func Test_UnmarshalJsonWrong(t *testing.T) {
-	rawJson, err := ioutil.ReadFile("../example-bad.json")
+	rawJson, err := ioutil.ReadFile("./example-bad.json")
 	if err != nil {
 		t.Errorf("could not open example json. %v", err)
 	}

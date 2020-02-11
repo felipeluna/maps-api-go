@@ -1,0 +1,761 @@
+{
+  "html_attributions": [],
+  "next_page_token": "CrQCJAEAALwb9RTgvoKZp-rfusrRk7ErT_fNgMqxJQ0WKYwh_7IWjpM84fyo4BjnXBdCOc0y052eSt9Zzhy_x84naGlEUL93kzolFl4Av0RBdDzTEdzCjspQnzrMsbw4yPpBEDM8JRTDMEbuzgThG5F4D4I-bULqR9VXAsDzasFp8apVXrdSdorXNxvWFaIZw3mkkyQY42KC_R35zj1_Q7JRGZnftIUoxD9VrpxPA6UU3pu0xCSkC-6UF3ilZTBOEnud2tSHo1xpGK39KKHWGxx2c3NLkxYIWzxS-fuEVnF8hfy2TLnmR3Y3FBch_KekYJo0MicWajkbNYBYjmWMw70t4J6SRUm5OYgdrQ3VWljiC2P9Mi5EvduSTilmj9Y9WWHtBgqSAUCswn7pYkVlwQ_-z5-vsgASEOMafjW4A4GhpJvkux2evosaFM7xqh9g-kXmTidI6fx_OOMJUyxE",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 59.3346068,
+          "lng": 18.0713083
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 59.33595503029151,
+            "lng": 18.0726411302915
+          },
+          "southwest": {
+            "lat": 59.3332570697085,
+            "lng": 18.06994316970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "8ba44ef66612fcac1254a02e3454d1eeb6682c0d",
+      "name": "Bianchi Café & Cycles",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106890079934113295797\">Magnus Överengen</a>"
+          ],
+          "photo_reference": "CmRaAAAA-9dqUh6s5ATiaEeCE97-J7kC8i8VqX1WCsSc3ffIcnjqMzfvnYumD1Z2CoMorN7qNx7_wiRpHEID6Z81ccC7Vy_uupQVR8WqftLXBc3w2AK4Jky-QTVxKsUBcHoBMMdJEhBJH49PxnSAiOkxgB79BZjnGhTyhId-nz7FH0UmU204n0KFKH9acw",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJU-pzi1ydX0YRv1ttpeWqUoo",
+      "plus_code": {
+        "compound_code": "83MC+RG Stockholm, Sweden",
+        "global_code": "9FFW83MC+RG"
+      },
+      "rating": 4.1,
+      "reference": "ChIJU-pzi1ydX0YRv1ttpeWqUoo",
+      "scope": "GOOGLE",
+      "types": [
+        "bicycle_store",
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 198,
+      "vicinity": "Norrlandsgatan 16, Stockholm"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 59.3168611,
+          "lng": 18.0582095
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 59.31824978029151,
+            "lng": 18.0595390802915
+          },
+          "southwest": {
+            "lat": 59.3155518197085,
+            "lng": 18.05684111970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "45957c6cfc370e570983e9d553daac49adfe8543",
+      "name": "Söders Cykel Stockholm",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116584336112050370301\">Robban J</a>"
+          ],
+          "photo_reference": "CmRaAAAAMf6yAbE50yhrr03K83j2JC1Fzd45JO8-YbFdQteJ_5qVviqF2nPyQ6en33YTOodtWshaDFt0S61LWyvCn5OpLMaYRDhr7hBDnb493fbfEaVklx4I7fzOSKWp9N1XI8CuEhDWXA_9bGmo_CT7dDZ13kupGhRPzh7hfMovzFJUNRH-iFXXaY_d9A",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJjSUdrsJ3X0YRjXK-qReQHcg",
+      "plus_code": {
+        "compound_code": "8385+P7 Stockholm, Sweden",
+        "global_code": "9FFW8385+P7"
+      },
+      "rating": 3.8,
+      "reference": "ChIJjSUdrsJ3X0YRjXK-qReQHcg",
+      "scope": "GOOGLE",
+      "types": [
+        "bicycle_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratin, Stockholm"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 59.3394443,
+          "lng": 18.0515188
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 59.34081553029151,
+            "lng": 18.0529540802915
+          },
+          "southwest": {
+            "lat": 59.33811756970849,
+            "lng": 18.05025611970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "5056e661505286d0ded2cd76c8ec34712b3b5cdd",
+      "name": "Cykelkällan",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109425384573319405802\">Alden Conant</a>"
+          ],
+          "photo_reference": "CmRaAAAANTG-S8wB_I6qxnBncUhUU0Fl-Ah99w-zA38hYcy2sYJWP5ZPSgmGQ3LnyCwL9mUgAyryt0TLE60wpasBjkh0NxodnjfS92xCD4SW74XTbSYFuoAo4BmIT3F3EQEv_dIKEhBuQN-JOxArS94XfUngexOEGhQWxa1Af1QTttNjhJOU9qKO3WhvmQ",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJrznT6n-dX0YREQSOZJsueNs",
+      "plus_code": {
+        "compound_code": "83Q2+QJ Stockholm, Sweden",
+        "global_code": "9FFW83Q2+QJ"
+      },
+      "rating": 3.4,
+      "reference": "ChIJrznT6n-dX0YREQSOZJsueNs",
+      "scope": "GOOGLE",
+      "types": [
+        "bicycle_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "Upplandsgatan 29, Stockholm"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 59.33253060000001,
+          "lng": 18.0431392
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 59.33387478029151,
+            "lng": 18.0445242802915
+          },
+          "southwest": {
+            "lat": 59.3311768197085,
+            "lng": 18.04182631970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "869f5262b8c3e40ee7db6d8b2f2555f973b20154",
+      "name": "Chain of Wheels",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110677258354765662341\">Kevin Sparrow</a>"
+          ],
+          "photo_reference": "CmRaAAAAywViWt9zpNd4DFYxd3P4s2BZLAQ6cunjxLuGOEfS25GbLiNK8cyOSxKhdxlyf712os_V4wiUnM13y7d2dgxm3TujXGzuKl69lgiE7AWX_hcmC_Ky6XYIWBZ_Uok4yZ3AEhDMLtCWB8MzV3eZF8i9rx_tGhSfgRaLALdcAZ7oU8XYVJ9nFrClWg",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJKTxs52KdX0YR2hjCEjgsrg4",
+      "plus_code": {
+        "compound_code": "82MV+27 Stockholm, Sweden",
+        "global_code": "9FFW82MV+27"
+      },
+      "rating": 4.4,
+      "reference": "ChIJKTxs52KdX0YR2hjCEjgsrg4",
+      "scope": "GOOGLE",
+      "types": [
+        "bicycle_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "Norra Agnegatan 36, Stockholm"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 59.3328853,
+          "lng": 18.0847199
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 59.3342055302915,
+            "lng": 18.0860461802915
+          },
+          "southwest": {
+            "lat": 59.33150756970849,
+            "lng": 18.08334821970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "f09ef752ce92d805fc7adad1105612e842067405",
+      "name": "Second Hand Bike",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108036750030127534883\">Henrik Eriksson</a>"
+          ],
+          "photo_reference": "CmRaAAAAvW20LkQ87HcfYxK5DV8MW3yd_RfGYLvtfIqPsoSirOjMo1l1LnZsjQDLlxqgsERPxvdhSAf8yQDBQkjqsWIyORo5UIkFm1oYp0ri8b5tMnU7DI8XIgF5MnxDYHXxXhFwEhAFKHZmnZLFjui7JnfWaT53GhSJVqxHZdbbFFlMy9h0DDtFm4IVUQ",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJVboa9VCdX0YR1JGztnphpO0",
+      "plus_code": {
+        "compound_code": "83MM+5V Stockholm, Sweden",
+        "global_code": "9FFW83MM+5V"
+      },
+      "rating": 4.7,
+      "reference": "ChIJVboa9VCdX0YR1JGztnphpO0",
+      "scope": "GOOGLE",
+      "types": [
+        "bicycle_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 18,
+      "vicinity": "Riddargatan 29, Stockholm"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 59.34438350000001,
+          "lng": 18.0532705
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 59.34570473029149,
+            "lng": 18.0546476802915
+          },
+          "southwest": {
+            "lat": 59.34300676970848,
+            "lng": 18.0519497197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "9f12b7631bdcc6b1ee409a7d20cfb85f4795ed09",
+      "name": "Stockholms cykel&sportservice AB",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104327067274809022219\">Stockholms cykel&amp;sportservice AB</a>"
+          ],
+          "photo_reference": "CmRaAAAAc7YrfOuXoPLT2RzPUCQUQbUnHMpQVHFp0C1OZh9xHU6e3qpQsUwvx1yeiWSta0poZJXTshq5UEmQmXDAp4jfREc-ztdUbmjHIOg8vIbYnbpekG3VyrVghHyOzDfQOWX9EhD__-0PQKymMlEkiJ19phgBGhTUcyiKCtF-2f4vd5jysm6GLeHTJg",
+          "width": 2560
+        }
+      ],
+      "place_id": "ChIJ3Ya0Wm6dX0YREM5Wb0ew8XA",
+      "plus_code": {
+        "compound_code": "83V3+Q8 Stockholm, Sweden",
+        "global_code": "9FFW83V3+Q8"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ3Ya0Wm6dX0YREM5Wb0ew8XA",
+      "scope": "GOOGLE",
+      "types": [
+        "bicycle_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 26,
+      "vicinity": "Surbrunnsgatan 56, Stockholm"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 59.3445849,
+          "lng": 18.0638967
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 59.3460045302915,
+            "lng": 18.0653655802915
+          },
+          "southwest": {
+            "lat": 59.34330656970849,
+            "lng": 18.0626676197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "036039ca1cf0fe4c386f2619c432a551d7e012a5",
+      "name": "Livelo Bikes AB",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103995669981009398115\">Arjumand Bonhomme</a>"
+          ],
+          "photo_reference": "CmRaAAAAfa6iv1cMADqDwHVEKSPRKIlGMy-6Tq8CPqwy03iNdAQcHtjchkiCRDU5m_mXE0lMiWg8erimoHcQWfsILSUsTgeRDp3YN2GS9sXXqfBonDWLSx2DQQHR5muLIRKjkj5REhCIQB2oIBJODNX7iwpIGQuOGhSDV2c-xgzkmfndrFjzyLbvVq6YPg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJhWd-fGmdX0YRSGH61lJdRkw",
+      "plus_code": {
+        "compound_code": "83V7+RH Stockholm, Sweden",
+        "global_code": "9FFW83V7+RH"
+      },
+      "rating": 4.8,
+      "reference": "ChIJhWd-fGmdX0YRSGH61lJdRkw",
+      "scope": "GOOGLE",
+      "types": [
+        "bicycle_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 9,
+      "vicinity": "Karlavägen 2, Stockholm"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 59.3440717,
+          "lng": 18.0718129
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 59.3453835302915,
+            "lng": 18.0732015802915
+          },
+          "southwest": {
+            "lat": 59.34268556970849,
+            "lng": 18.0705036197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "3c6f06f5d9dbb33669e673c36f1952434ee3daa3",
+      "name": "Bikemechanics Bicycle Workshop",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 810,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104292509974920527796\">Bikemechanics Cykelverkstad</a>"
+          ],
+          "photo_reference": "CmRaAAAAl59XnAdEXu0xYEl7EI0rwWg7brUUuVV5ukNx37CLzrQLSmimtE0Efsn6hfH_pq5dEZ8RKKtu2-ANNBiTy0GWnfmZQK2ZUNnIx-ViBfXZnEqbgk1IB0j1D2N4gDzBnrFCEhCu2IKA9CLrofMHlF8U0NDwGhRzsJuzO_rVFOWgXM9t7myRiHjqvw",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJd_hc9EGdX0YRlYgr3qD9FYM",
+      "plus_code": {
+        "compound_code": "83VC+JP Stockholm, Sweden",
+        "global_code": "9FFW83VC+JP"
+      },
+      "rating": 4.7,
+      "reference": "ChIJd_hc9EGdX0YRlYgr3qD9FYM",
+      "scope": "GOOGLE",
+      "types": [
+        "bicycle_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 122,
+      "vicinity": "Rådmansgatan 6, Stockholm"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 59.34550290000001,
+          "lng": 18.0583638
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 59.34690513029151,
+            "lng": 18.0596610802915
+          },
+          "southwest": {
+            "lat": 59.3442071697085,
+            "lng": 18.0569631197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "892b617805ea8795f5341469b671a5bd12b7f9b6",
+      "name": "Dropinbikes",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104741315518041133702\">Psalmist Studio</a>"
+          ],
+          "photo_reference": "CmRaAAAAUahphRfnFczgr0g2s8dVkJ_QmgoI5uQTPUiJVHkNj_iBQILGgWeZKUbqC5hWcEJG3YbtSeMwhUHAGwpkn4I6mYiQRPNh5svZgX4Nh86d7uEnJGu0Plk8VuC2Aexu-Tw3EhAWTGeox35ReNHRSeAWIYbkGhT_UlzENE6INQUtJnn3awB10FvXKg",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJvz7XoG6dX0YRXCfavvH9v3E",
+      "plus_code": {
+        "compound_code": "83W5+68 Stockholm, Sweden",
+        "global_code": "9FFW83W5+68"
+      },
+      "rating": 4.8,
+      "reference": "ChIJvz7XoG6dX0YRXCfavvH9v3E",
+      "scope": "GOOGLE",
+      "types": [
+        "bicycle_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 28,
+      "vicinity": "Surbrunnsgatan 31B, Stockholm"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 59.3457333,
+          "lng": 18.0568721
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 59.34706318029151,
+            "lng": 18.0581478302915
+          },
+          "southwest": {
+            "lat": 59.3443652197085,
+            "lng": 18.0554498697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "e95ae069521e4f788497ab5fa5d02b1269cd15af",
+      "name": "iRecycle - Begagnade Cyklar",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107753613411944659625\">iRecycle - Begagnade Cyklar</a>"
+          ],
+          "photo_reference": "CmRaAAAAjDdi7NEnRoo80nqxL4c3A6c7-VzLRZXWOCRe9nMd6oFamfiCZsOxbXBHwR3H7GaON_6wzwd982fZ_biGjmSiatAzXR7bZN3z8pRUQaaOwSfyxL8nHXiAR5gcqRqzbnW9EhAbbXrN-S2LVmqOdQo0H-ibGhQB65heOaLUb-Oopu2NBu-WzapUrA",
+          "width": 976
+        }
+      ],
+      "place_id": "ChIJm0OEWPB3X0YR3es0fErJXSA",
+      "plus_code": {
+        "compound_code": "83W4+7P Stockholm, Sweden",
+        "global_code": "9FFW83W4+7P"
+      },
+      "rating": 4.1,
+      "reference": "ChIJm0OEWPB3X0YR3es0fErJXSA",
+      "scope": "GOOGLE",
+      "types": [
+        "bicycle_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 54,
+      "vicinity": "Döbelnsgatan 52 Door Code: 5252"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 59.31636200000001,
+          "lng": 18.064603
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 59.3176664302915,
+            "lng": 18.0659740802915
+          },
+          "southwest": {
+            "lat": 59.31496846970849,
+            "lng": 18.06327611970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "06f17b454168309f982259f0fb9bb65db1733d20",
+      "name": "Cykelåtervinning AB",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111565961654463662787\">Cykelåtervinning AB</a>"
+          ],
+          "photo_reference": "CmRaAAAAER-Hb8P7ElG1rebFUh9VDv0amb9Z-FqrJ4FZH5nb_BdP6ScBLTheuZexUlWZnLhQ_SNJFHWfLoQKsvckgKyXr0mfyK5GUM4W0CqLAByEnO17XhziET1f-5G-PuDpCddlEhCtkNTIWvE5uEXZQyth-EuYGhS1ShLshcLaWTY6Zs36i89eGk_2Eg",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJsbtnyOR3X0YR0KVuOkbZpQY",
+      "plus_code": {
+        "compound_code": "8387+GR Stockholm, Sweden",
+        "global_code": "9FFW8387+GR"
+      },
+      "rating": 3.6,
+      "reference": "ChIJsbtnyOR3X0YR0KVuOkbZpQY",
+      "scope": "GOOGLE",
+      "types": [
+        "bicycle_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 9,
+      "vicinity": "Maria Prästgårdsgata 14, Stockholm"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 59.34437699999999,
+          "lng": 18.0399
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 59.3457506802915,
+            "lng": 18.0410351802915
+          },
+          "southwest": {
+            "lat": 59.34305271970849,
+            "lng": 18.0383372197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "54da86e27e6da96d50f14578ccab41d18c9d5f64",
+      "name": "Stålhästen",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107095923103179887616\">Sergiu Zboras</a>"
+          ],
+          "photo_reference": "CmRZAAAAOXn2Gu21QAbG3VJXKmIK_DiVnhLfDad-ZvYwkTmqhqNFZ5qDa0_PBgliVhMXWibkz6xuN0qu2JJ6PAdNDXk1_5vlMlqQr5kS0uC_QezywChAx2XEoSko8QodPfL0-4yqEhB1BT9m16mTWp7jwXfWGPmaGhRiGJiq0sI_wJF6oDZ9MAq9ZsTuRQ",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJ8WpZpHGdX0YRmqD2zrXf4MA",
+      "plus_code": {
+        "compound_code": "82VQ+QX Stockholm, Sweden",
+        "global_code": "9FFW82VQ+QX"
+      },
+      "rating": 4,
+      "reference": "ChIJ8WpZpHGdX0YRmqD2zrXf4MA",
+      "scope": "GOOGLE",
+      "types": [
+        "bicycle_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 56,
+      "vicinity": "Sankt Eriksgatan 106, Stockholm"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 59.3335988,
+          "lng": 18.0301245
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 59.3349039302915,
+            "lng": 18.03144983029151
+          },
+          "southwest": {
+            "lat": 59.33220596970849,
+            "lng": 18.0287518697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "45704bec89ac5d37a9baccd0235fea681d0c8a52",
+      "name": "Cykelverket",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1758,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103974579137187654427\">Cykelverket</a>"
+          ],
+          "photo_reference": "CmRaAAAA_SC_Z-3hCi6tl7EZU4AODOaBk2mwPNeQSazx2Dpov1kiSxxpxvqKh6jiupYdJpPaYCQVFC2WN5gSTQ39tjdOOwuAOzfW-KjJyC-YeYZUfx7ZoCuJJr3GRq2Wa0I5W8zkEhDx3DIMX_zfTbVOPE-PjipPGhRhZwf9n8Mso2go9Kqu2jsp5cF0lg",
+          "width": 2880
+        }
+      ],
+      "place_id": "ChIJGToZc36dX0YRyoS-u6jX6R0",
+      "plus_code": {
+        "compound_code": "82MJ+C2 Stockholm, Sweden",
+        "global_code": "9FFW82MJ+C2"
+      },
+      "rating": 4.4,
+      "reference": "ChIJGToZc36dX0YRyoS-u6jX6R0",
+      "scope": "GOOGLE",
+      "types": [
+        "bicycle_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 63,
+      "vicinity": "Sankt Göransgatan 74, Stockholm"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 59.32382339999999,
+          "lng": 18.06849339999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 59.3251849302915,
+            "lng": 18.06987473029151
+          },
+          "southwest": {
+            "lat": 59.32248696970849,
+            "lng": 18.0671767697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "40081b3f8daf2a05eaedfe75db671b5750287547",
+      "name": "Gamla Stans Cykel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2269,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107459435831434212608\">Gamla Stans Cykel</a>"
+          ],
+          "photo_reference": "CmRaAAAAYZkOCzZh2ZsHhj6vwk90Irz7CER0yme1v2lXPdYQpY9JUBxMMZ3CAUvwQHGA8SUG78fM7o4RiTLP3nTswXYwavF02AhcOhuNn3erzbJ83PSP9z7eLpzqkTIerUgUYeS-EhCIMoAvNLEP7T0uvN5XmaxvGhSypf_ZP8vg0TcOfPrltxDN0iaFjQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJsV9MQeJ3X0YRSuoAkynnH2Q",
+      "plus_code": {
+        "compound_code": "83F9+G9 Stockholm, Sweden",
+        "global_code": "9FFW83F9+G9"
+      },
+      "rating": 4.4,
+      "reference": "ChIJsV9MQeJ3X0YRSuoAkynnH2Q",
+      "scope": "GOOGLE",
+      "types": [
+        "bicycle_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 53,
+      "vicinity": "Lilla Nygatan 10, Stockholm"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 59.34120599999999,
+          "lng": 18.0690246
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 59.3425140302915,
+            "lng": 18.0704219302915
+          },
+          "southwest": {
+            "lat": 59.33981606970849,
+            "lng": 18.0677239697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "0c086775f9dcfe260a3d0167712d9682b1e7c1dd",
+      "name": "KMX Karts Sweden",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 344,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103170259738957939985\">KMX Karts Sweden</a>"
+          ],
+          "photo_reference": "CmRaAAAA3Sx8ujfbHU447ZkWemzWf3ngIcFYvfqI3Y-adFXSqIBFRpNfvbZ98Xf1yUA0laA-7LvTR3XwtlzN7uBMy1i6t31usBES4dgRK8TjzYbsMOqs3dmU8zR8V2XCj-jrCtFyEhA7SXmPOBoIICcgfvL2sPdxGhTMwdTW3YokxMTFBM-CBi71UlmSZw",
+          "width": 870
+        }
+      ],
+      "place_id": "ChIJeektiEKdX0YR-YtICzFLiGo",
+      "plus_code": {
+        "compound_code": "83R9+FJ Stockholm, Sweden",
+        "global_code": "9FFW83R9+FJ"
+      },
+      "rating": 5,
+      "reference": "ChIJeektiEKdX0YR-YtICzFLiGo",
+      "scope": "GOOGLE",
+      "types": [
+        "bicycle_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "Runebergsgatan 7, Stockholm"
+    }
+  ],
+  "status": "OK"
+}
+
+
